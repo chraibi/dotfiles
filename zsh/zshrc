@@ -8,7 +8,7 @@ zstyle ':omz:update' mode disabled
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
-eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/tokyo-with-python.yaml)"
+eval "$(oh-my-posh init zsh)"
 
 export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
