@@ -6,3 +6,4 @@ Expected layout:
 
 - `zsh/zshrc` copied to `~/.zshrc`
 - `lazygit/config.yml` copied to `~/.config/lazygit/config.yml`
+- `tmux/tmux.conf` for `~/.tmux.conf` on Linux hosts (not copied into the dev-setup image)
